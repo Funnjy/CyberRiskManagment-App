@@ -6,6 +6,8 @@ import java.awt.event.ActionListener;
 /**
  * Created by Anton on 24.04.2017.
  */
+
+
 public class MainWindow extends JFrame implements ActionListener{
 
     //Labels
